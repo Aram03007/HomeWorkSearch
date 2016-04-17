@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeWorkSearch</string>
+    <string name="search">Search</string>
+    <string name="enter_request">Enter request</string>
+</resources>
